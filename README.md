@@ -6,3 +6,4 @@ Repositorio Tarea 1 INF239
     Benjamín Pérez Romero - Rol 202273060-9
 
 Favor Renato Martínez y Benjamín Pérez, conectar el github.
+ya lo conecte amigo no se preocupe
